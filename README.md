@@ -18,6 +18,24 @@ npm run server
 
 The server is now running at [localhost:3000](localhost:3000)
 
-### Voting App - Learning By Doing Series 1
+<hr>
+
+### Voting App - Learning By Doing Series 1:
+
+**What is Component?** 
+
+- Component of UI
+- React is Component-based Javascript UI Library.
+- Components makes your code reusable.
+
+We have 2 components;
+
+- ProductList: Contains a list of product components
+- Product: Displays given product.
+
+
+
+
+
 
 
