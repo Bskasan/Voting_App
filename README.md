@@ -17,3 +17,7 @@ npm run server
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+
+### Voting App - Learning By Doing Series 1
+
+
