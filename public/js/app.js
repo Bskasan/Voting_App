@@ -19,7 +19,6 @@ class ProductList extends React.Component {
 
 class Product extends React.Component {
   render() {
-    console.log(this.props);
     return (
       <div className="item">
         <div className="image">
